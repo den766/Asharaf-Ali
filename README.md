@@ -48,6 +48,7 @@ Built using **Object-Oriented Programming (OOP)** concepts to manage books.
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=den776&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=den766&show_icons=true&theme=radical)
+
 
 ⭐ **Check out my repositories & give a star if you like them!** ⭐

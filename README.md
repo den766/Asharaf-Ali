@@ -27,25 +27,7 @@
 
 ## 📌 Featured Projects
 
-### 🌦 Weather App 
-A simple weather application that fetches real-time weather data using the OpenWeather API.
-
-- **Tech Stack:** HTML, CSS, JavaScript, OpenWeather API
-- **Features:** Fetches weather details, displays temperature & conditions
-
-### 💰 Finance UI App
-A finance dashboard that helps in learning **array methods** and **responsive CSS**.
-
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:** Interactive UI, financial data representation
-
-### 📚 Library Management System 
-Built using **Object-Oriented Programming (OOP)** concepts to manage books.
-
-- **Tech Stack:** JavaScript (OOP), HTML, CSS
-- **Features:** Add, remove, search books
-
----
+Building Phase 
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=den766&show_icons=true&theme=radical)
